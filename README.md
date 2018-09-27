@@ -7,7 +7,7 @@ Se debe entonces lograr una forma automática de superar el filtro de Términos 
 el formulario de consulta que tiene los campos de *Tipo de Documento* y *Numero de Identificación*. 
 Estos campos deben ser llenados de manera programática a partir de la información extraida de un request que contiene la infomración 
 necesaria para la consulta. 
-Una vez obtenido el resultado de la consulta, deben guardarse TODOS LOS DATOS en un documento JSON que los regrese al solicitante
+Una vez obtenido el resultado de la consulta, deben guardarse TODOS LOS DATOS en un documento JSON y los regrese al solicitante
 El timeout máximo para la solicitud y respuesta son 30 segundos.
 
 El primer postulante que complete de manera efectiva todas las condiciones gana el reto :)
